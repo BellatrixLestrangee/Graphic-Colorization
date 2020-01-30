@@ -3,8 +3,8 @@ Image colorization is the process of taking an input grayscale (black and white)
 
 Previous methods for image colorization either:
 
-    Relied on significant human interaction and annotation
-    Produced desaturated colorization
+   1. Relied on significant human interaction and annotation
+   2.  Produced desaturated colorization
 
 The novel approach we are going to use here today instead relies on deep learning. We will utilize a Convolutional Neural Network capable of colorizing black and white images with results that can even “fool” humans!
 
